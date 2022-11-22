@@ -1,0 +1,42 @@
+.body{
+    height: auto;
+}
+
+.nav{
+ background-color: #EBCEDA;
+}
+
+.img-header{
+    margin-top: 3rem;
+    font-size: 1.25rem;
+    color: black;
+}
+
+.main-img{
+    height: 400px;
+}
+
+.main{
+    margin-top: 80px;
+    background: #EBCEDA;
+    padding: 60px;
+}
+#sm{
+    margin: 80px, 80px;
+}
+
+.socialmedia{
+    border: 1px solid #EBA7A2;
+    border-radius: 5px;
+    padding: 25px;
+    margin: 25px;
+    transition:all 0.3s ease-out;
+}
+
+#work{
+    margin: 120px 0px;
+}
+
+.d-block{
+    height: min-content;
+}
